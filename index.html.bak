@@ -36,7 +36,7 @@ body {background-image: url('Aubeyshuttheup/spite.gif');}
 <marquee class="somethinginsideme?:flushed:" direction="right" scrollamount="5">
 <img src="Aubeyshuttheup/hate.gif" height="250px" width="250px"></img>
 </marquee>
-<marquee scrollamount="130" class="anyurusm">
+<marquee scrollamount="130" class="anyurusm" direction="right">
 <img src="Aubeyshuttheup/dothat.gif" height="250px" width="250px"></img>
 </marquee>
 </body>
